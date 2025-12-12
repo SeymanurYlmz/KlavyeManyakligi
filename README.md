@@ -7,12 +7,11 @@ Klavye Manyaklığı, ekranda beliren kelimeleri 60 saniye içinde mümkün oldu
 - Anlık skor takibi
 - Rastgele kelime üretimi
 - Doğru/yanlış yazım kontrolü
-- Ses efektleri (doğru/yanlış geri bildirimi)
+- Ses efektleri 
 - Basit ve hızlı arayüz
 
 ## 🛠️ Technologies Used
 - **HTML**
-- **CSS**
 - **JavaScript**
 - **Audio files (sound effects)**
 
