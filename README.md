@@ -8,7 +8,7 @@ Klavye Manyaklığı, ekranda beliren kelimeleri 60 saniye içinde mümkün oldu
 - Rastgele kelime üretimi
 - Doğru/yanlış yazım kontrolü
 - Ses efektleri (doğru/yanlış geri bildirimi)
-- Basit, hızlı ve eğlenceli arayüz
+- Basit ve hızlı arayüz
 
 ## 🛠️ Technologies Used
 - **HTML**
