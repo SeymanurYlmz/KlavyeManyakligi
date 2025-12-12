@@ -19,6 +19,5 @@ Klavye Manyaklığı, ekranda beliren kelimeleri 60 saniye içinde mümkün oldu
 ## 🚀 How to Run
 Bu proje tamamen web tabanlıdır — herhangi bir komut çalıştırmanıza gerek yoktur.
 
-1. Projeyi indirin veya klonlayın:
-   ```bash
+
   
