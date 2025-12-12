@@ -1,14 +1,14 @@
 # Klavye Manyaklığı
 
-Klavye Manyaklığı, ekranda beliren kelimeleri 60 saniye içinde mümkün olduğunca hızlı yazmanı sağlayan bir web tabanlı yazma hızı oyunudur. Amaç, klavye hızını ölçmek ve gelişimi takip etmektir.
+Klavye Manyaklığı is a web-based typing speed game that allows you to type the words appearing on the screen as quickly as possible within 60 seconds. The goal is to measure your typing speed and track your improvement.
 
 ## 🎮 Features
-- 60 saniyelik yazma süresi
-- Anlık skor takibi
-- Rastgele kelime üretimi
-- Doğru/yanlış yazım kontrolü
-- Ses efektleri 
-- Basit ve hızlı arayüz
+- 60-second typing duration
+- Real-time score tracking
+- Random word generation
+- Correct/incorrect typing detection
+- Sound effects
+- Simple and fast interface
 
 ## 🛠️ Technologies Used
 - **HTML**
@@ -16,7 +16,7 @@ Klavye Manyaklığı, ekranda beliren kelimeleri 60 saniye içinde mümkün oldu
 - **Audio files (sound effects)**
 
 ## 🚀 How to Run
-Bu proje tamamen web tabanlıdır — herhangi bir komut çalıştırmanıza gerek yoktur.
+This project is completely web-based — you do not need to run any commands.
 
 
   
